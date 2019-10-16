@@ -1,0 +1,4 @@
+irtual/
+*.pyc
+instance/
+*.vscode
